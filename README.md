@@ -3,7 +3,7 @@
 Given Project is a Machine Learning regression model to predict car price. For this project a kaggle dataset of used cars was used.
 
 Data Collection: 
-[Car Price Prediction](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) from Kaggle
+[Malaria Detection](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) from Kaggle
 
 
 Testing values
