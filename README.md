@@ -1,6 +1,6 @@
 # Malaria-Detection
 
-Given Project is a Machine Learning regression model to predict car price. For this project a kaggle dataset of used cars was used.
+Given Project is a Deep Learning model to predict whether a person is infected with pneumonia or not using cell images.
 
 Data Collection: 
 [Malaria Detection](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) from Kaggle
@@ -29,7 +29,7 @@ Workflow
 2. Exploratory Data Analysis 
 3. Model Building and Selection 
 4. Coding Backend, FLASK API and Testing 
-5. Coding Frontend HTML and Testing 
+5. Coding Frontend, HTML and Testing 
 
 
 
