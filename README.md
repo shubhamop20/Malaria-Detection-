@@ -1,6 +1,6 @@
 # Malaria-Detection
 
-Given Project is a Deep Learning model to predict whether a person is infected with pneumonia or not using cell images.
+Given Project is a Deep Learning model to predict whether a person is infected with pneumonia or not using cell images. Transfer Learning was used to build the model.
 
 Data Collection: 
 [Malaria Detection](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) from Kaggle
@@ -31,6 +31,7 @@ Workflow
 4. Coding Backend, FLASK API and Testing 
 5. Coding Frontend, HTML and Testing 
 
+Credits: I learnt the implementation of this project from Krish Naik(Youtube Channel) and did it as a part of self study.
 
 
 
